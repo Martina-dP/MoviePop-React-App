@@ -1,0 +1,55 @@
+.todo{
+    background-image: url("../../img/fondo10.jpg");
+    background-size: cover;
+    background-position-x:  200px;
+    width: auto;
+    height: 100vh;
+}
+
+.total{
+    display: flex;  
+}
+
+.info{
+    width: 700px;
+    height: 210px;
+    margin: 30px 0 0 30px
+}
+
+.img{
+    width: 400px;
+    margin: 40px 20px 20px 30px
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.descripcion{
+    color: white;
+    margin: 10px;
+}
+
+.fecha{
+    color: white;
+    margin: 10px;
+}
+
+.puntos{
+    color: white;
+    margin: 10px;
+}
+
+.boton{
+    margin: 20px 0 0 30px;
+	cursor: pointer;
+	font-weight: bold;
+    border: 3px solid gold;
+	letter-spacing: .25em; 
+    padding: 10px 14px;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+}

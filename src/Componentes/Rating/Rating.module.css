@@ -1,0 +1,15 @@
+.contenedor{
+    border: 2px solid brown;
+    margin: 16px;
+    width: 210px;
+    padding: 4px 4px;
+    display: flex;
+}
+
+.estrella{
+    margin: 2px;
+}
+
+.titulo{
+    margin-bottom: 4px;
+}

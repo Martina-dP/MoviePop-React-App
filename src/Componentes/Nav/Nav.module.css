@@ -1,0 +1,37 @@
+.todo{
+    background-image: url("../../img/nav5.jpg");
+    background-size: cover;
+    width: 1200px;
+    height: 480px;
+}
+
+.marca{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.btns{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 12px;
+}
+
+.titulo{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    font-size: 40px;
+}
+
+.titulo1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
